@@ -26,4 +26,4 @@ Software Engineer working at Ho Chi Minh City | Focus: Machine Learning, Data Sc
 * **Technologies & Tools:** Machine Learning, Flutter, Git, DaVinci Resolve.
 
 ## 📊 GitHub Analytics
-![NghiaHoang's GitHub stats](https://github-readme-stats.vercel.app/api?username=NghiaHoang&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
+![NghiaHoang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nghia9912&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
