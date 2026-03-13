@@ -1,6 +1,6 @@
 # Nghia Hoang
 
-Information Technology Student at Nong Lam University, Ho Chi Minh City (NLU) | Focus: Machine Learning, Data Science & Web Development.
+Software Engineer working at Ho Chi Minh City | Focus: Machine Learning, Data Science & Web Development.
 
 ## Current Focus & Research
 * Developing machine learning models and applying data science methodologies.
