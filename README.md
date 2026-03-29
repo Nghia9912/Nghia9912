@@ -1,6 +1,6 @@
 # Nghia Hoang
 
-Software Engineer working at Ho Chi Minh City | Focus: Machine Learning, Data Science & Web Development.
+Software/Agent Engineer working at Ho Chi Minh City | Focus: Machine Learning, Data Science & Web Development.
 
 ## Current Focus & Research
 * Developing machine learning models and applying data science methodologies.
