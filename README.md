@@ -26,4 +26,4 @@ Software/Agent Engineer working at Ho Chi Minh City | Focus: Machine Learning, D
 * **Technologies & Tools:** Machine Learning, Flutter, Git, DaVinci Resolve.
 
 ## 📊 GitHub Analytics
-![NghiaHoang's GitHub stats]([https://github-readme-stats.vercel.app/api?username=Nghia9912&show_icons=true&theme=transparent&hide_border=true&rank_icon=github](https://streak-stats.demolab.com?user=Nghia9912&theme=transparent&hide_border=true))
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nghia9912&theme=dark&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
