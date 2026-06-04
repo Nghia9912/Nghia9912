@@ -24,6 +24,3 @@ Software/Agent Engineer working at Ho Chi Minh City | Focus: Machine Learning, D
 ## Tech Stack
 * **Languages:** Java, Python, JavaScript, Dart.
 * **Technologies & Tools:** Machine Learning, Flutter, Git, DaVinci Resolve.
-
-## 📊 GitHub Analytics
-[![GitHub Streak](https://streak-stats.demolab.com?user=Nghia9912&theme=dark&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
